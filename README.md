@@ -1,6 +1,6 @@
 # Example how to use Express and TypeORM with TypeScript
 
-
+This repo is forked from official typeorm `Example how to use Express and TypeORM with TypeScript`
 
 ## 有關如何把此範例跑起來，可參考此教學。
 主要包括mysql安裝和設定db的前置作業，和包括curl測試API的測試
